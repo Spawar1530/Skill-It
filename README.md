@@ -7,4 +7,5 @@ Skill It session
 [SOAL Website](https://www.schoolofacceleratedlearning.com/)
 
 Think you can pass the Firewall test - [Firewall](https://firewall.soal.io/firewall/signup/)?
+
 ![flow-graph](/<flowchart.png>)
