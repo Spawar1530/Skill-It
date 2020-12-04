@@ -8,4 +8,4 @@ Skill It session
 
 Think you can pass the Firewall test - [Firewall](https://firewall.soal.io/firewall/signup/)?
 
-![flow-graph](/<flowchart.png>)
+![flow-graph](/flowchart.png)
